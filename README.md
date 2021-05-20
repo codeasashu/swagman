@@ -1,3 +1,10 @@
+# DEPRECATED
+
+This project is now deprecated in favour of [Openman](https://github.com/codeasashu/openman).
+This means, if you are facing issues, try to use openman and see if it resolves them. If not,
+file issue over there. This project had issues from start and hence needed a rewrite.
+
+
 # Swagman
 
 This tool converts your postman collection to OpenAPISpec v3 definition. You can easily
